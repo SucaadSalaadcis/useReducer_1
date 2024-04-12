@@ -34,3 +34,6 @@ function UseReducer() {
 }
 
 export default UseReducer
+
+// useReducer: is used for complex state manipulations and state transitions
+// const [state, dispatch ] = useReducer(reducer, initailValue)
